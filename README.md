@@ -22,7 +22,7 @@
 
 Este repositório armazena os meus projetos de aprendizado de Python e a biblioteca tkinter.
 
-## Listagem dos script no repositório:
+## Listagem dos scripts no repositório:
 
 * `Calculadora` 
 * `Calculadora-de-Idade`
@@ -32,7 +32,7 @@ Este repositório armazena os meus projetos de aprendizado de Python e a bibliot
 * `Monitoração do Preço do Bitcoin em tempo real`
 
 
-## Fontes usadas de texto usadas nos projetos são:
+## Fontes usadas para o texto nos projetos são:
 
 * `Arial`   - App Bitcoin, Cronômetro
 * `Carlito` - Calculadora de IMC, Calculadora de Unidades de Medidas, Cronômetro
