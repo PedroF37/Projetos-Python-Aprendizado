@@ -32,6 +32,7 @@
 ![alt text](https://github.com/PedroF37/Python-Tkinter/blob/main/Formulario/Formulario-Consulta4.png)
 ![alt text](https://github.com/PedroF37/Python-Tkinter/blob/main/Formulario/Formulario-Consulta5.png)
 ![alt text](https://github.com/PedroF37/Python-Tkinter/blob/main/Formulario/Formulario-Consulta6.png)
+##
 
 Este repositório armazena os meus projetos de aprendizado de Python e a biblioteca tkinter.
 
@@ -53,7 +54,8 @@ Este repositório armazena os meus projetos de aprendizado de Python e a bibliot
 
 * `Arial`   - App Bitcoin, Cronômetro
 * `Carlito` - Calculadora de IMC, Calculadora de Unidades de Medidas, Cronômetro
-* `Roboto`  - Calculadora de Idade, Calculadora de Salário, Pedra Papel Tesoura, Formul
+* `Roboto`  - Calculadora de Idade, Calculadora de Salário, Pedra Papel Tesoura,
+              Formul
 * `Sans`    - Calculadora
 * `Times`   - Cronômetro
 * `Verdana` - Calculadora de Salário
