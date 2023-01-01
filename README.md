@@ -26,6 +26,12 @@
 ![alt text](https://github.com/PedroF37/Python-Tkinter/blob/main/PedraPapelTesoura/Pedra-Papel-Tesoura2.png)
 ![alt text](https://github.com/PedroF37/Python-Tkinter/blob/main/PedraPapelTesoura/Pedra-Papel-Tesoura3.png)
 ##
+![alt text](https://github.com/PedroF37/Python-Tkinter/blob/main/Formulario/Formulario-Consulta1.png)
+![alt text](https://github.com/PedroF37/Python-Tkinter/blob/main/Formulario/Formulario-Consulta2.png)
+![alt text](https://github.com/PedroF37/Python-Tkinter/blob/main/Formulario/Formulario-Consulta3.png)
+![alt text](https://github.com/PedroF37/Python-Tkinter/blob/main/Formulario/Formulario-Consulta4.png)
+![alt text](https://github.com/PedroF37/Python-Tkinter/blob/main/Formulario/Formulario-Consulta5.png)
+![alt text](https://github.com/PedroF37/Python-Tkinter/blob/main/Formulario/Formulario-Consulta6.png)
 
 Este repositório armazena os meus projetos de aprendizado de Python e a biblioteca tkinter.
 
@@ -39,13 +45,15 @@ Este repositório armazena os meus projetos de aprendizado de Python e a bibliot
 * `Monitoração do Preço do Bitcoin em tempo real`
 * `Calculadora de Salário`
 * `Pedra Papel Tesoura`
+* `Formulario-de-Conculta` - Não é 100 porcento funcional, script foi feito apenas para aprender a integrar sqlite no python. Tem que executar primeiro o
+                             script banco.py para criar a base de dados do zero
 
 
 ## Fontes usadas para o texto nos projetos são:
 
 * `Arial`   - App Bitcoin, Cronômetro
 * `Carlito` - Calculadora de IMC, Calculadora de Unidades de Medidas, Cronômetro
-* `Roboto`  - Calculadora de Idade, Calculadora de Salário, Pedra Papel Tesoura
+* `Roboto`  - Calculadora de Idade, Calculadora de Salário, Pedra Papel Tesoura, Formul
 * `Sans`    - Calculadora
 * `Times`   - Cronômetro
 * `Verdana` - Calculadora de Salário
