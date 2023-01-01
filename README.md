@@ -55,7 +55,7 @@ Este repositório armazena os meus projetos de aprendizado de Python e a bibliot
 * `Arial`   - App Bitcoin, Cronômetro
 * `Carlito` - Calculadora de IMC, Calculadora de Unidades de Medidas, Cronômetro
 * `Roboto`  - Calculadora de Idade, Calculadora de Salário, Pedra Papel Tesoura,
-              Formul
+Formulario
 * `Sans`    - Calculadora
 * `Times`   - Cronômetro
 * `Verdana` - Calculadora de Salário
