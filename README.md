@@ -19,6 +19,13 @@
 ##
 ![alt text](https://github.com/PedroF37/Python-Tkinter/blob/main/Bitcoin/Bitcoin-Price-Tracker.png)
 ##
+![alt text](https://github.com/PedroF37/Python-Tkinter/blob/main/Calculadora-de-Salario/Calculadora-Sal%C3%A1rio1.png)
+![alt text](https://github.com/PedroF37/Python-Tkinter/blob/main/Calculadora-de-Salario/Calculadora-Sal%C3%A1rio2.png)
+##
+![alt text](https://github.com/PedroF37/Python-Tkinter/blob/main/PedraPapelTesoura/Pedra-Papel-Tesoura1.png)
+![alt text](https://github.com/PedroF37/Python-Tkinter/blob/main/PedraPapelTesoura/Pedra-Papel-Tesoura1.png)
+![alt text](https://github.com/PedroF37/Python-Tkinter/blob/main/PedraPapelTesoura/Pedra-Papel-Tesoura1.png)
+##
 
 Este repositório armazena os meus projetos de aprendizado de Python e a biblioteca tkinter.
 
@@ -30,12 +37,15 @@ Este repositório armazena os meus projetos de aprendizado de Python e a bibliot
 * `Calculadora-de-Unidades-de-Medidas` - Apenas foi implementado as conversões de massa (peso) e comprimento. As restantes medidas não fazem nada.
 * `Cronômetro`
 * `Monitoração do Preço do Bitcoin em tempo real`
+* `Calculadora de Salário`
+* `Pedra Papel Tesoura`
 
 
 ## Fontes usadas para o texto nos projetos são:
 
 * `Arial`   - App Bitcoin, Cronômetro
 * `Carlito` - Calculadora de IMC, Calculadora de Unidades de Medidas, Cronômetro
-* `Roboto`  - Calculadora de Idade
+* `Roboto`  - Calculadora de Idade, Calculadora de Salário, Pedra Papel Tesoura
 * `Sans`    - Calculadora
 * `Times`   - Cronômetro
+* `Verdana` - Calculadora de Salário
