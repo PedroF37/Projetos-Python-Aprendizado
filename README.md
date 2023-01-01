@@ -45,7 +45,7 @@ Este repositório armazena os meus projetos de aprendizado de Python e a bibliot
 * `Monitoração do Preço do Bitcoin em tempo real`
 * `Calculadora de Salário`
 * `Pedra Papel Tesoura`
-* `Formulario-de-Conculta` - Não é 100 porcento funcional, script foi feito apenas para aprender a integrar sqlite no python. Tem que executar primeiro o
+* `Formulario-de-Consulta` - Não é 100 porcento funcional, script foi feito apenas para aprender a integrar sqlite no python. Tem que executar primeiro o
                              script banco.py para criar a base de dados do zero
 
 
