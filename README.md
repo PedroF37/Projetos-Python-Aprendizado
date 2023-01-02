@@ -25,6 +25,7 @@
 ![alt text](https://github.com/PedroF37/Python-Tkinter/blob/main/PedraPapelTesoura/Pedra-Papel-Tesoura1.png)
 ![alt text](https://github.com/PedroF37/Python-Tkinter/blob/main/PedraPapelTesoura/Pedra-Papel-Tesoura2.png)
 ![alt text](https://github.com/PedroF37/Python-Tkinter/blob/main/PedraPapelTesoura/Pedra-Papel-Tesoura3.png)
+![alt text](https://github.com/PedroF37/Python-Tkinter/blob/main/PedraPapelTesoura/Pedra-Papel-Tesoura4.png)
 ##
 ![alt text](https://github.com/PedroF37/Python-Tkinter/blob/main/Formulario/Formulario-Consulta1.png)
 ![alt text](https://github.com/PedroF37/Python-Tkinter/blob/main/Formulario/Formulario-Consulta2.png)
