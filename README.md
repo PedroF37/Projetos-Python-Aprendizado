@@ -1,6 +1,5 @@
 # Projetos em Python Para Aprendizado
-##
-Este repositório armazena os meus projetos de aprendizado de Python. São projetos para eu aprender, logo nem todos os projetos estão 100 por cento funcionais, assim como nem todos fazem alguma coisa realmente
+##Este repositório armazena os meus projetos de aprendizado de Python. São projetos para eu aprender, logo nem todos os projetos estão 100 por cento funcionais, assim como nem todos fazem alguma coisa realmente útil.
 
 ##
 ![alt text](https://github.com/PedroF37/Python-Tkinter/blob/main/Calculadora-de-Idade/Calculadora-Idade1.png)
