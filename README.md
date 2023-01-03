@@ -34,6 +34,8 @@
 ![alt text](https://github.com/PedroF37/Python-Tkinter/blob/main/Formulario/Formulario-Consulta5.png)
 ![alt text](https://github.com/PedroF37/Python-Tkinter/blob/main/Formulario/Formulario-Consulta6.png)
 ##
+![alt text](https://github.com/PedroF37/Projetos-Python-Aprendizado/blob/main/Dashboard-Vendas/Dashboard-Vendas.png)
+##
 
 Este repositório armazena os meus projetos de aprendizado de Python e a biblioteca tkinter.
 
@@ -49,6 +51,7 @@ Este repositório armazena os meus projetos de aprendizado de Python e a bibliot
 * `Pedra Papel Tesoura`
 * `Formulario-de-Consulta` - Não é 100 porcento funcional, script foi feito apenas para aprender a integrar sqlite no python. Tem que executar primeiro o
                              script banco.py para criar a base de dados do zero
+* `Dashboard-de-Vendas` - Projeto feito para aprender matplotlib, e como integrar no tkinter. Dados do dashboard são inuteis.. e dashboard é estático.
 
 
 ## Fontes usadas para o texto nos projetos são:
@@ -56,7 +59,7 @@ Este repositório armazena os meus projetos de aprendizado de Python e a bibliot
 * `Arial`   - App Bitcoin, Cronômetro
 * `Carlito` - Calculadora de IMC, Calculadora de Unidades de Medidas, Cronômetro
 * `Roboto`  - Calculadora de Idade, Calculadora de Salário, Pedra Papel Tesoura,
-Formulario
+Formulario, Dashboard-de-Vendas
 * `Sans`    - Calculadora
 * `Times`   - Cronômetro
 * `Verdana` - Calculadora de Salário
