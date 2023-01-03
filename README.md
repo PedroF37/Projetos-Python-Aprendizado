@@ -1,4 +1,6 @@
-# Projetos Para Aprendizado
+# Projetos em Python Para Aprendizado
+##
+Este repositório armazena os meus projetos de aprendizado de Python. São projetos para eu aprender, logo nem todos os projetos estão 100 por cento funcionais, assim como nem todos fazem alguma coisa realmente
 
 ##
 ![alt text](https://github.com/PedroF37/Python-Tkinter/blob/main/Calculadora-de-Idade/Calculadora-Idade1.png)
@@ -36,8 +38,6 @@
 ##
 ![alt text](https://github.com/PedroF37/Projetos-Python-Aprendizado/blob/main/Dashboard-Vendas/Dashboard-Vendas.png)
 ##
-
-Este repositório armazena os meus projetos de aprendizado de Python e a biblioteca tkinter.
 
 ## Listagem dos scripts no repositório:
 
