@@ -37,6 +37,16 @@
 ##
 ![alt text](https://github.com/PedroF37/Projetos-Python-Aprendizado/blob/main/Dashboard-Vendas/Dashboard-Vendas.png)
 ##
+![alt text](https://github.com/PedroF37/Projetos-Python-Aprendizado/blob/main/Todo-App/todo-app.png)
+##
+![alt text](https://github.com/PedroF37/Projetos-Python-Aprendizado/blob/main/Conversor-Base-Numerico/conversor-base-numerica1.png)
+![alt text](https://github.com/PedroF37/Projetos-Python-Aprendizado/blob/main/Conversor-Base-Numerico/conversor-base-numerica2.png)
+![alt text](https://github.com/PedroF37/Projetos-Python-Aprendizado/blob/main/Conversor-Base-Numerico/conversor-base-numerica3.png)
+##
+![alt text](https://github.com/PedroF37/Projetos-Python-Aprendizado/blob/main/Calculadora-de-Patrimonio/calculadora-patrimonio1.png)
+![alt text](https://github.com/PedroF37/Projetos-Python-Aprendizado/blob/main/Calculadora-de-Patrimonio/calculadora-patrimonio2.png)
+![alt text](https://github.com/PedroF37/Projetos-Python-Aprendizado/blob/main/Calculadora-de-Patrimonio/calculadora-patrimonio3.png)
+##
 
 ## Listagem dos scripts no repositório:
 
@@ -51,6 +61,9 @@
 * `Formulario-de-Consulta` - Não é 100 porcento funcional, script foi feito apenas para aprender a integrar sqlite no python. Tem que executar primeiro o
                              script banco.py para criar a base de dados do zero
 * `Dashboard-de-Vendas` - Projeto feito para aprender matplotlib, e como integrar no tkinter. Dados do dashboard são inuteis.. e dashboard é estático.
+* `Todo-App`
+* `Conversor de bases numéricas`
+* `Calculadora de Património`
 
 
 ## Fontes usadas para o texto nos projetos são:
@@ -58,7 +71,8 @@
 * `Arial`   - App Bitcoin, Cronômetro
 * `Carlito` - Calculadora de IMC, Calculadora de Unidades de Medidas, Cronômetro
 * `Roboto`  - Calculadora de Idade, Calculadora de Salário, Pedra Papel Tesoura,
-Formulario, Dashboard-de-Vendas
+Formulario, Dashboard-de-Vendas, Calculadora-de-Património, Conversor-Base-Numericas,
+Todo-App
 * `Sans`    - Calculadora
 * `Times`   - Cronômetro
 * `Verdana` - Calculadora de Salário
